@@ -1,0 +1,5 @@
+{
+  "name": "Food App",
+  "description": "A professional food delivery platform with a robust driver module, real-time updates, and secure RBAC.",
+  "requestFramePermissions": []
+}
